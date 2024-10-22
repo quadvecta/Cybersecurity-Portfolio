@@ -1,8 +1,8 @@
 # Cybersecurity-Portfolio
 # Professional Staatement
 
-**Name**: Suhan Aktar Mazumder
-**Current Status**: Student at Gurucharan College, pursuing a BSc in Computer Science.
+**Name**: Suhan Aktar Mazumder  
+**Current Status**: Student at Gurucharan College, pursuing a BSc in Computer Science.  
 **Self-Learner and Aspiring Cybersecurity Professional**
 
 As a dedicated computer science student and self-taught cybersecurity enthusiast, I have immersed myself in the dynamic world of cybersecurity alongside my formal education. In addition to my college coursework, I have proactively explored various platforms such as **TryHackMe, HackTheBox, and OverTheWire**, steadily progressed from a complete beginner to an intermediate level.
