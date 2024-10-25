@@ -1,5 +1,5 @@
 # Cybersecurity-Portfolio
-# Professional Staatement
+# Professional Statement
 
 **Name**: Suhan Aktar Mazumder  
 **Current Status**: Student at Gurucharan College, pursuing a BSc in Computer Science.  
