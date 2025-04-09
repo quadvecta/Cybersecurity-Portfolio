@@ -1,20 +1,66 @@
 # Cybersecurity-Portfolio
-# Professional Statement
 
-**Name**: Suhan Aktar Mazumder  
-**Current Status**: Student at Gurucharan College, pursuing a BSc in Computer Science.  
-**Self-Learner and Aspiring Cybersecurity Professional**
+# Hi, I'm Suhan Aktar Mazumder
 
-As a dedicated computer science student and self-taught cybersecurity enthusiast, I have immersed myself in the dynamic world of cybersecurity alongside my formal education. In addition to my college coursework, I have proactively explored various platforms such as **TryHackMe, HackTheBox, and OverTheWire**, steadily progressed from a complete beginner to an intermediate level.
+ **Cybersecurity Analyst | Computer Science Student**  
+ Passionate about securing digital environments and developing resilient systems.
 
-Through relentless practice and hands-on challenges, I have gained my skills in critical cybersecurity tools and techniques, including but not limited to:
-- **Hydra** for password cracking
-- **Ghidra** for reverse engineering
-- **Burp Suite** for web vulnerability testing
-- **Autopsy** for forensic analysis
-- **Nmap** and **Gobuster** for network scanning and enumeration
-- Strong capabilities in **OSINT** (Open Source Intelligence) and **Phishing analysis**.
+---
 
-In addition to my practical skills, I recently earned the **ISC² Certified in Cybersecurity** certification and **Google Cybersecurity Professional Course**. My goal is to break into the field of cybersecurity with a solid foundation, a hands-on approach, and an unyielding drive to keep learning and staying ahead of emerging threats.
+## 🧠 About Me
 
-I am highly ambitious, and eager to contribute my growing knowledge to real-world cybersecurity challenges. With a firm understanding of both technical and strategic aspects of security, I strive to make an impact in this field by continuously upskilling to stay at the forefront of technological advancements.
+I'm currently pursuing my Bachelor's in Computer Science at Gurucharan College (Assam, India), with a keen interest in cybersecurity, risk management, and secure development. I enjoy exploring cryptographic tools, network protocols, and forensic techniques — and I’m always on the lookout for innovative solutions to evolving cyber threats.
+
+---
+
+## 💼 Experience
+
+- **Programming & Development Lead**  
+  *GC CS Students’ Club* (Feb 2025 – Present)  
+  Leading development initiatives, encouraging coding best practices, and mentoring peers.
+
+- **Cybersecurity Intern**  
+  *Edunet Foundation (Remote)* (Jan 2025 – Feb 2025)  
+  Gained hands-on knowledge of cryptography, Linux systems, and cybersecurity principles. Practiced technical documentation and reporting.
+
+---
+
+## 🛠️ Skills
+
+- **Security**: Network Security, Threat Intelligence, Risk Management, Security Auditing  
+- **Tools**: Wireshark, Autopsy, SIEM platforms  
+- **Programming**: Python, SQL  
+- **Operating Systems**: Linux, Windows
+
+---
+
+## 📌 Projects
+
+### 🔍 Image Steganography Tool  
+A Python-based tool utilizing **OpenCV** and **AES encryption** to embed hidden messages within images securely.  
+> *Built for learning cryptography and secure communication techniques.*
+
+[🔗 View project](https://github.com/quadvecta/Stegno-Project)
+
+---
+
+## 📜 Certifications
+
+- [x] ISC2 - Certified in Cybersecurity (CC)  
+- [x] Google Cybersecurity Specialization
+
+---
+
+## 🌐 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/suhan-mazumder-ba69b1320/)
+  
+---
+
+## 📊 GitHub Stats
+
+![Suhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quadvecta&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quadvecta&layout=compact&theme=radical)
+
+---
