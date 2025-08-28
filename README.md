@@ -19,7 +19,7 @@ I'm currently pursuing my Bachelor's in Computer Science at Gurucharan College (
   *GC CS Students’ Club* (Feb 2025 – Present)  
   Leading development initiatives, encouraging coding best practices, and mentoring peers.
 
-- ** Artificial Intelligence Intern**
+- **Artificial Intelligence Intern**
   *Microsoft  (India, Remote)* (Apr 2025 - May 2025)
   Learned Foundation of AI/ML, Generative AI, MS Azure. 
 
