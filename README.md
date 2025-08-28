@@ -17,16 +17,16 @@ I'm currently pursuing my Bachelor's in Computer Science at Gurucharan College (
 
 - **Programming & Development Lead**  
   *GC CS Students’ Club* (Feb 2025 – Present)  
-  Leading development initiatives, encouraging coding best practices, and mentoring peers.
+  - Leading development initiatives, encouraging coding best practices, and mentoring peers.
 
-- **Artificial Intelligence Intern**
+- **Artificial Intelligence Intern**  
   *Microsoft  (India, Remote)* (Apr 2025 - May 2025)
-  Learned Foundation of AI/ML, Generative AI, MS Azure. 
+  - Learned Foundation of AI/ML, Generative AI, MS Azure. 
 
 
 - **Cybersecurity Intern**  
   *Edunet Foundation (Remote)* (Jan 2025 – Feb 2025)  
-  Gained hands-on knowledge of cryptography, Linux systems, and cybersecurity principles. Practiced technical documentation and reporting.
+  - Gained hands-on knowledge of cryptography, Linux systems, and cybersecurity principles. Practiced technical documentation and reporting.
 
 ---
 
