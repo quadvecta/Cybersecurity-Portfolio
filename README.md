@@ -15,6 +15,10 @@ I'm currently pursuing my Bachelor's in Computer Science at Gurucharan College (
 
 ## 💼 Experience
 
+- **Part-Time Teacher | Computer Science**  
+  *MD English School* (June 2025 – Present)  
+  - Teaching the students coding, various fundamental concepts of CS and making them familiar with the technlogy.
+
 - **Programming & Development Lead**  
   *GC CS Students’ Club* (Feb 2025 – Present)  
   - Leading development initiatives, encouraging coding best practices, and mentoring peers.
@@ -40,6 +44,14 @@ I'm currently pursuing my Bachelor's in Computer Science at Gurucharan College (
 ---
 
 ## 📌 Projects
+
+### [IMPROVED] Image Steganography System 
+A Python-based tool utilizing **OpenCV** and **AES encryption** to embed hidden messages within images securely.  
+> *Built for final year project revolving around concept of steganography and image processing with integrity and anonymity*
+
+[🔗 View project](https://github.com/anisa-droid/Secure-Image-Steganography-Project)
+
+---
 
 ### 🔍 Image Steganography Tool  
 A Python-based tool utilizing **OpenCV** and **AES encryption** to embed hidden messages within images securely.  
