@@ -7,13 +7,13 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm currently pursuing my Bachelor's in Computer Science at Gurucharan College (Assam, India), with a keen interest in cybersecurity, risk management, and secure development. I enjoy exploring cryptographic tools, network protocols, and forensic techniques — and I’m always on the lookout for innovative solutions to evolving cyber threats.
 
 ---
 
-## 💼 Experience
+## Experience
 
 - **Part-Time Teacher | Computer Science**  
   *MD English School* (June 2025 – Present)  
@@ -34,7 +34,7 @@ I'm currently pursuing my Bachelor's in Computer Science at Gurucharan College (
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 - **Security**: Network Security, Threat Intelligence, Risk Management, Security Auditing  
 - **Tools**: Wireshark, Autopsy, SIEM platforms  
@@ -43,7 +43,7 @@ I'm currently pursuing my Bachelor's in Computer Science at Gurucharan College (
 
 ---
 
-## 📌 Projects
+##  Projects
 
 ### [IMPROVED] Image Steganography System 
 A Python-based tool utilizing **OpenCV** and **AES encryption** to embed hidden messages within images securely.  
@@ -53,7 +53,7 @@ A Python-based tool utilizing **OpenCV** and **AES encryption** to embed hidden 
 
 ---
 
-### 🔍 Image Steganography Tool  
+###  Image Steganography Tool  
 A Python-based tool utilizing **OpenCV** and **AES encryption** to embed hidden messages within images securely.  
 > *Built for learning cryptography and secure communication techniques.*
 
@@ -61,20 +61,20 @@ A Python-based tool utilizing **OpenCV** and **AES encryption** to embed hidden 
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - [x] ISC2 - Certified in Cybersecurity (CC)  
 - [x] Google Cybersecurity Specialization
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/suhan-mazumder-ba69b1320/)
   
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Suhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quadvecta&show_icons=true&theme=radical)
 
